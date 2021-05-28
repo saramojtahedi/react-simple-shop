@@ -1,0 +1,14 @@
+.item-name {
+    color: #404A85;
+    font-weight: bold;
+    text-decoration: none !important;
+    transition: all 0.4s;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -ms-transition: all 0.4s;
+    -o-transition: all 0.4s;
+}
+
+.item-name:hover {
+    text-decoration: none !important;
+}
